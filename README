@@ -1,0 +1,4 @@
+After installation one can link to https://develop.studip.de/trac using this markup:
+
+    ticket:1234
+    changeset: 1234
